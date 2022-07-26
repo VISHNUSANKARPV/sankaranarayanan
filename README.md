@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sankaranarayanan PV</h1>
 <h3 align="center">Self-taught Software developer</h3>
+<img width="50%" margin-bottom="60" align="right" alt="Coding"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **Flutter,html,css,javascript,bootstrap**
 
